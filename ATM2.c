@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
     int t;
-    scanf("%d",t);
+    scanf("%d",&t);
     while(t--){
     int k,n,i,ar[100];
     
